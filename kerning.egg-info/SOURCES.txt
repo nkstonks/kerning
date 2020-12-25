@@ -1,3 +1,5 @@
+README.md
+setup.cfg
 setup.py
 kerning/__init__.py
 kerning/kerning.py

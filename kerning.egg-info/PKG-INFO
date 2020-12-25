@@ -2,11 +2,11 @@ Metadata-Version: 1.1
 Name: kerning
 Version: 1.0
 Summary: My very first python package!
-Home-page: URL to get it at.
+Home-page: https://github.com/nkstonks/kerning
 Author: Kento Nguyen
 Author-email: nkento2007@gmail.com
 License: UNKNOWN
-Download-URL: Where to download it.
+Download-URL: https://github.com/nkstonks/kerning/archive/v_1.0.tar.gz
 Description: This module can do the typography process kerning.
 Keywords: python,first package
 Platform: UNKNOWN
