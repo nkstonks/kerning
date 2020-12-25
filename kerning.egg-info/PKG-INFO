@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: kerning
+Version: 1.0
+Summary: My very first python package!
+Home-page: URL to get it at.
+Author: Kento Nguyen
+Author-email: nkento2007@gmail.com
+License: UNKNOWN
+Download-URL: Where to download it.
+Description: This module can do the typography process kerning.
+Keywords: python,first package
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
