@@ -3,7 +3,7 @@ try:
 except ImportError:
     from distutils.core import setup
 
-VERSION = "1.0"
+VERSION = "1.1"
 DESCRIPTION = "My very first python package!"
 LONG_DESCRIPTION = "This module can do the typography process kerning."
 
