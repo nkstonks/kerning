@@ -12,6 +12,7 @@ def kern(phrase):
     try:
         new_phrase = ' '.join(list_of_letters)
     except TypeError:
+        raise TypeError("Expected string, got something else.")
 
 
     # print(new_phrase)
