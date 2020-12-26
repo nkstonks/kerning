@@ -11,7 +11,7 @@ Description: This module can do the typography process kerning.
 Keywords: python,first package
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
-Classifier: Intended Audience :: Everyone
+Classifier: Intended Audience :: Other Audience
 Classifier: Programming Language :: Python :: 2
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: MacOS :: MacOS X
