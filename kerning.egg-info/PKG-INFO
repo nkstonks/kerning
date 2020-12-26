@@ -6,12 +6,12 @@ Home-page: https://github.com/nkstonks/kerning
 Author: Kento Nguyen
 Author-email: nkento2007@gmail.com
 License: UNKNOWN
-Download-URL: https://github.com/nkstonks/kerning/archive/V_1.1.tar.gz
+Download-URL: https://github.com/nkstonks/kerning/archive/v1.2.tar.gz
 Description: This module can do the typography process kerning.
 Keywords: python,first package
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
-Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Everyone
 Classifier: Programming Language :: Python :: 2
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: MacOS :: MacOS X
