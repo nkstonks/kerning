@@ -22,7 +22,7 @@ config = {
     'keywords' : ['python', 'first package'],
     'classifiers' : [
         "Development Status :: 3 - Alpha",
-        "Intended Audience :: Everyone",
+        "Intended Audience :: Other Audience",
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3",
         "Operating System :: MacOS :: MacOS X",
