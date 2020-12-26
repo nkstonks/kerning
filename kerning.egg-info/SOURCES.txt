@@ -2,8 +2,7 @@ README.md
 setup.cfg
 setup.py
 kerning/__init__.py
-kerning/kerning.py
-kerning/split.py
+kerning/main.py
 kerning.egg-info/PKG-INFO
 kerning.egg-info/SOURCES.txt
 kerning.egg-info/dependency_links.txt

@@ -1,10 +1,11 @@
-import split
+def split_words(thing): 
+    return [char for char in thing] 
 
 def kern(phrase):
 
     list_of_letters = []
 
-    for letter in split(phrase):
+    for letter in split_words(phrase):
         list_of_letters.append(letter)
     
     # print(list_of_letters)

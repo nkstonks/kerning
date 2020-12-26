@@ -1,1 +1,1 @@
-from kerning import kern
+from kerning import main
