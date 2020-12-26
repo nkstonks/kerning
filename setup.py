@@ -12,7 +12,7 @@ config = {
     'long_description' : LONG_DESCRIPTION,
     'author' : 'Kento Nguyen',
     'url' : 'https://github.com/nkstonks/kerning',
-    'download_url' : 'https://github.com/nkstonks/kerning/archive/V_1.1.tar.gz',
+    'download_url' : 'https://github.com/nkstonks/kerning/archive/v1.2.tar.gz',
     'author_email' : 'nkento2007@gmail.com',
     'version' : VERSION,
     'packages' : find_packages(),
