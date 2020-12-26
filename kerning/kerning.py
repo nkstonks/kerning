@@ -1,5 +1,4 @@
-def split(word): 
-    return [char for char in word]
+import split
 
 def kern(phrase):
 
@@ -13,7 +12,6 @@ def kern(phrase):
         new_phrase = ' '.join(list_of_letters)
     except TypeError:
         raise TypeError("Expected string, got something else.")
-
 
     # print(new_phrase)
     return new_phrase
