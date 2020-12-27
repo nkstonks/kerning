@@ -12,6 +12,9 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
+    - name: Delete old tar file
+      run: >-
+        rm -rf dist  
     - name: Build source tar file
       run: >-
         python setup.py sdist  
