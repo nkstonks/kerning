@@ -7,7 +7,7 @@ import os
 with open("README.md", encoding="utf-8") as file:
     long_description = file.read()
 
-VERSION = "1.4"
+VERSION = "1.4.1"
 DESCRIPTION = "My very first python package!"
 
 config = {
@@ -16,7 +16,7 @@ config = {
     'long_description_content_type' : 'text/markdown',
     'author' : 'Kento Nguyen',
     'url' : 'https://github.com/nkstonks/kerning',
-    'download_url' : 'https://github.com/nkstonks/kerning/archive/v1.4.tar.gz',
+    'download_url' : 'https://github.com/nkstonks/kerning/archive/v1.4.1tar.gz',
     'author_email' : 'nkento2007@gmail.com',
     'version' : VERSION,
     'packages' : find_packages(),
