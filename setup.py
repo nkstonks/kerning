@@ -16,7 +16,7 @@ config = {
     'long_description_content_type' : 'text/markdown',
     'author' : 'Kento Nguyen',
     'url' : 'https://github.com/nkstonks/kerning',
-    'download_url' : 'https://github.com/nkstonks/kerning/archive/v1.3.tar.gz',
+    'download_url' : 'https://github.com/nkstonks/kerning/archive/v1.4.tar.gz',
     'author_email' : 'nkento2007@gmail.com',
     'version' : VERSION,
     'packages' : find_packages(),
