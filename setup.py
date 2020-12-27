@@ -2,17 +2,21 @@ try:
     from setuptools import setup, find_packages
 except ImportError:
     from distutils.core import setup
+import os
+
+with open("README.md", encoding="utf-8") as file:
+    long_description = file.read()
 
 VERSION = "1.3"
 DESCRIPTION = "My very first python package!"
-LONG_DESCRIPTION = "This module can do the typography process kerning."
 
 config = {
     'description' : DESCRIPTION,
-    'long_description' : LONG_DESCRIPTION,
+    'long_description' : long_description,
+    'long_description_content_type' : 'text/markdown'
     'author' : 'Kento Nguyen',
     'url' : 'https://github.com/nkstonks/kerning',
-    'download_url' : 'https://github.com/nkstonks/kerning/archive/v1.2.tar.gz',
+    'download_url' : 'https://github.com/nkstonks/kerning/archive/v1.3.tar.gz',
     'author_email' : 'nkento2007@gmail.com',
     'version' : VERSION,
     'packages' : find_packages(),
