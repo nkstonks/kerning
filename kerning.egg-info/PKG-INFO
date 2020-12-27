@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: kerning
-Version: 1.4
+Version: 1.5
 Summary: My very first python package!
 Home-page: https://github.com/nkstonks/kerning
 Author: Kento Nguyen
 Author-email: nkento2007@gmail.com
 License: UNKNOWN
-Download-URL: https://github.com/nkstonks/kerning/archive/v1.3.tar.gz
+Download-URL: https://github.com/nkstonks/kerning/archive/v1.5.tar.gz
 Description: hello this is still in the works
 Keywords: python,first package
 Platform: UNKNOWN
