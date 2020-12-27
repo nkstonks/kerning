@@ -13,7 +13,7 @@ DESCRIPTION = "My very first python package!"
 config = {
     'description' : DESCRIPTION,
     'long_description' : long_description,
-    'long_description_content_type' : 'text/markdown'
+    'long_description_content_type' : 'text/markdown',
     'author' : 'Kento Nguyen',
     'url' : 'https://github.com/nkstonks/kerning',
     'download_url' : 'https://github.com/nkstonks/kerning/archive/v1.3.tar.gz',
