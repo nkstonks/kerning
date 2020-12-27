@@ -7,7 +7,7 @@ import os
 with open("README.md", encoding="utf-8") as file:
     long_description = file.read()
 
-VERSION = "1.5"
+VERSION = "1.6"
 DESCRIPTION = "My very first python package!"
 
 config = {
